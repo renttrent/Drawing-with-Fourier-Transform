@@ -5,6 +5,7 @@ All waveforms, no matter what you scribble or observe in the universe, are actua
 
 ## Notes
 Project made in Processing which is a tool that lets you use programming to sketch on the screen. Premade video outputs are included.
+The python file is a simple demonstration of the fourier transform which seperates signals into different sinusoid functions.
 ### Links: 
 -	https://processing.org/download/
 -	https://matplotlib.org/users/installing.html
